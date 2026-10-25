@@ -1,0 +1,2 @@
+# Utiliza librerías nativas de Python (os, shutil, pathlib)
+# No requiere dependencias externas adicionales en su versión base.
